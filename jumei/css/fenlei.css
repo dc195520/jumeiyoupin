@@ -1,0 +1,144 @@
+@charset "utf-8";
+body,div,p,ul,ol,li,dl,dt,dd,table,tr,td,form,h1,h2,h3,h4,h5,h6,hr,fieldset,input,img {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+html {
+    font-size: 26.67vw;
+}
+
+html,body {
+    height: 100%;
+    font-family: "微软雅黑", Arial;
+    background: #f5f5f5;
+    letter-spacing: 1px;
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    display: block;
+}
+
+ul,ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+
+
+
+/* 顶部 */
+.fl_header{
+    display: flex;
+    align-items: center;
+    background: #fff;
+    padding: 0.2rem 0;
+}
+.fl_header img{
+    width: 0.1rem;
+    height: 0.18rem;
+    margin: 0 0.12rem 0 0.23rem;
+}
+.fl_header a{
+    display: flex;
+    align-items: center;
+    font-size: 0.12rem;
+    color: #bebec5;
+    width: 2.72rem;
+    height: 0.3rem;
+    background: #f5f5f5;
+    border-radius: 0.15rem;
+}
+.fl_header a img{
+    width: 0.17rem;
+    height: 0.17rem;
+    margin-left: 0.1rem;
+    margin-right: 0;
+} 
+
+
+
+/* 分类 */
+.fl_section{
+    
+}
+/*section*/
+.fl_sub_section{
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    display: flex;
+}
+section{
+    display: flex;
+    flex: 1;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.fl_menu{
+    overflow-y: scroll;
+    width: 22.5%;
+}
+.fl_menu li{
+    font-size: 0.14rem;
+    color: #151515;
+    width: 100%;
+    text-align: center;
+    line-height: 0.48rem;
+    border-bottom: 2px solid #eee;
+}
+.fl_menu .fl_active1{
+    color: #fe3a6c;
+}
+.fl_active1{
+    background: #fff url(../images/fl_red.png) no-repeat left center;
+    background-size: 6px 100%;
+}
+.fl_sec_content{
+    width: 77.5%;
+    display: flex;
+    overflow-y: scroll;
+    flex-direction: column;
+    background: #fff;
+}
+.fl_sec_content>div{
+    width: 100%;
+    display: none;
+}
+.fl_sec_content h5{
+    font-size: 0.14rem;
+    font-weight: 100;
+    color: #000;
+    margin-left: 0.12rem;
+    line-height: 0.42rem;
+}
+.fl_sec_one{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0.1rem;
+    padding-bottom: 0.1rem;
+    border-bottom: 1px solid #f6f6f6;
+}
+.fl_sec_one a{
+    font-size: 0.14rem;
+    color: #0a0a0a;
+    width: 25.9%;
+    display: flex;
+    line-height: 0.25rem;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.1rem;
+}
+.fl_sec_one img{
+    width: 100%;
+}
+.fl_sec_content .fl_focus{
+    display: block;
+    background: #fff;
+}

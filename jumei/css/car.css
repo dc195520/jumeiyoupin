@@ -1,0 +1,311 @@
+@charset "utf-8";
+body,div,p,ul,ol,li,dl,dt,dd,table,tr,td,form,h1,h2,h3,h4,h5,h6,hr,fieldset,input,img {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+html {
+    font-size: 26.67vw;
+}
+
+html,body {
+    height: 100%;
+    font-family: "微软雅黑", Arial;
+    background: #f5f5f5;
+    letter-spacing: 1px;
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    display: block;
+}
+
+ul,ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+
+input[type='checkbox']{
+    width: 0.2rem;
+    height: 0.2rem;
+    background-color: #fff;
+    -webkit-appearance:none;
+    border: 1px solid #c9c9c9;
+    border-radius: 50%;
+    outline: none;
+}
+input[type=checkbox]:checked{
+    background: url("../images/order_checked.png") no-repeat center;
+    background-size: 0.3rem 0.3rem;
+    border: none;
+}
+
+
+.car_header{
+    height: 0.44rem;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.18rem;
+    border-bottom: 1px solid #f7f7f7;
+}
+.car_header img:first-child{
+    width: 0.1rem;
+    height: 0.16rem;
+}
+.car_header p{
+    font-size: 0.16rem;
+    font-weight: 600;
+    color: #000;
+    margin-left: 0.5rem;
+}
+.car_header img:last-child{
+    width: 0.18rem;
+    height: 0.18rem;
+    margin-left: 0.22rem;
+}
+.car_header a{
+    font-size: 0.12rem;
+    color: #000;
+    display: flex;
+    align-items: center;
+}
+
+/*banner*/
+.car_banner{
+    height: 0.30rem;
+    padding: 0 0.1rem;
+    background: #fff;
+    border-bottom: 1px solid #f7f7f7;
+    display: flex;
+    align-items: center;
+}
+.car_banner_left{
+    display: none;
+}
+.car_banner a{
+    display: flex;
+    align-items: center;
+}
+.car_banner a span{
+    color: #fe4070;
+    font-size: 0.12rem;
+    display: block;
+    margin: 0 0.05rem 0 0.02rem;
+}
+.car_banner a img{
+    width: 0.13rem;
+    height: 0.12rem;
+}
+.car_banner p{
+    font-size: 0.12rem;
+    color: #969696;
+}
+
+
+/*店铺商品*/
+.car_section{
+    flex: 1;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.car_cont{
+    background: #fff;
+}
+.car_section_top{
+    font-size: 0.12rem;
+    color: #000;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #f7f7f7;
+    height: 0.39rem;
+    padding: 0 0.16rem 0 0.09rem;
+}
+.car_section_top input{
+    margin-right: 0.09rem;
+}
+.car_section_con{
+    display: flex;
+    align-items: center;
+    padding: 0.08rem 0.16rem 0.11rem 0.09rem;
+    justify-content: space-between;
+    border-bottom: 1px solid #f7f7f7;
+}
+.car_section_con img{
+    width: 0.77rem;
+    height: 0.72rem;
+}
+.car_section_con_txt{
+    width: 61%;
+}
+.car_section_con_txt h4{
+    font-size: 0.13rem;
+    color: #000;
+    font-weight: 100;
+}
+.car_section_con_txt p{
+    font-size: 0.12rem;
+    color: #848484;
+    font-weight: 100;
+    line-height: 0.28rem;
+}
+.car_section_con_txt a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.car_section_con_txt a p{
+    font-size: 0.14rem;
+    color: #fe4674;
+    line-height: 0.35rem;
+}
+.car_spans{
+    display: flex;
+    align-items: center;
+}
+.car_spans span{
+    display: block;
+}
+.car_spans span:nth-child(2n+1){
+    width: 0.24rem;
+    height: 0.24rem;
+    border: 1px solid #e4dfdf;
+    border-radius: 50%;
+    color: #252525;
+    font-size: 0.2rem;
+    text-align: center;
+    line-height: 0.24rem;
+}
+.car_spans span:nth-child(2){
+    font-size: 0.14rem;
+    color: #252525;
+    margin: 0 0.18rem;
+}
+
+
+.car_buy{
+}
+.car_p{
+    text-align: center;
+    line-height: 0.41rem;
+    font-size: 0.12rem;
+    color: #1d1d1d;
+    background: #fff;
+    margin-top: 0.08rem;
+}
+.car_buy_con{
+    margin: 0.05rem 0.05rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.car_buy_list{
+    background: #fff;
+    padding: 0.1rem 0.05rem;
+    width: 46.5%;
+    margin-bottom: 0.05rem;
+}
+.car_buy_list:nth-child(2n){
+    margin-left: 0.05rem;
+}
+.car_buy_list img{
+    width: 1.67rem;
+    height: 1.34rem;
+}
+.car_buy_span{
+    width: 0.77rem;
+    height: 0.19rem;
+    font-size: 0.12rem;
+    color: #fff;
+    background: #ff507b;
+    border-top-right-radius: 0.08rem;
+    border-bottom-right-radius: 0.08rem;
+    line-height: 0.19rem;
+    text-align: center;
+    display: block;
+}
+.car_buy_list h3{
+    font-size: 0.14rem;
+    color: #000;
+    font-weight: 100;
+    line-height: 0.18rem;
+    margin-top: 0.02rem;
+}
+.car_buy_txt{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.15rem;
+}
+.car_buy_txt h4{
+    font-size: 0.16rem;
+    color: #ff4d79;
+}
+.car_buy_txt h4 b{
+    display: flex;
+}
+.car_buy_txt h4 b span{
+    font-size: 0.14rem;
+    color: #8c8c8c;
+    font-weight: 100;
+    text-decoration: line-through;
+}
+.car_buy_txt h4 i{
+    font-style: normal;
+    font-size: 0.12rem;
+    color: #b0b0b0;
+    font-weight: 100;
+}
+.car_buy_txt img{
+    width: 0.31rem;
+    height: 0.31rem;
+}
+
+
+/*全选*/
+.car_checkall{
+    background: #fff;
+    padding: 0.09rem  0.13rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.car_checkall a{
+    display: flex;
+    align-items: center;
+}
+.car_checkall a h4{
+    font-size: 0.16rem;
+    font-weight: 100;
+    color: #000;
+    margin: 0 0.1rem;
+}
+.car_checkall a p{
+    font-size: 0.12rem;
+    color: #9f9f9f;
+}
+.car_checkall a span{
+    font-size: 0.18rem;
+    color: #ff5d86;
+    display: block;
+    margin-left: 0.1rem;
+}
+.car_checkall_span{
+    width: 0.98rem;
+    height: 0.36rem;
+    display: block;
+    background: #fe4070;
+    border-radius: 0.18rem;
+    font-size: 0.14rem;
+    color: #fff;
+    text-align: center;
+    line-height: 0.36rem;
+}
+
+

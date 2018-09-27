@@ -1,0 +1,1155 @@
+[
+    {
+      "classifyId":"jmc0000",
+      "jmClassify":"极速免税店",
+      "jmClassifyShop": [
+        {
+          "shopId":"jms00",
+          "koreaShopTitle": "美迪惠尔极速免税旗舰店",
+          "shopRecommended": false,
+          "shopPreferential": true,
+          "shopLogo": ["../../static/images/huier_logo.png"],
+          "shopImg":["../../static/images/huier_img.jpg"],
+          "shopIndexImg":[],
+          "shopFocus": "8.6万人收藏",
+          "shopSales": 4571,
+          "shopProduct": [
+            {
+              "goodsId":"jmg000",
+              "title": "美迪惠尔竹炭面贴膜10片/盒",
+              "brand": "美迪惠尔",
+              "productClassfiy": "极速免税",
+              "originPrice": 174,
+              "presentPrice": 89,
+              "productDescribe": " 170ml(702003126)",
+              "freight": "本商品满299或2件包邮(新疆部分区域除外)",
+              "efficacy": "清洁,净肤,嫩肤,抗氧化,温和",
+              "shelfLife": "2年",
+              "instructions": "",
+              "attention": " 因个人肤质不同，如有不适请立即停止使用。",
+              "productSize": [ ],
+              "productColor": [  ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/msHuiEr.jpg"
+              ],
+              "productInforImg":[
+                "../../static/images/msHuiEr1.jpg",
+                "../../static/images/msHuiEr2.jpg",
+                "../../static/images/msHuiEr3.jpg"
+              ]
+            },
+            {
+              "goodsId":"jmg001",
+              "title": "美迪惠尔&nbsp;胶原蛋白洗面奶",
+              "brand": "美迪惠尔",
+              "productClassfiy": "极速免税",
+              "originPrice": 84,
+              "presentPrice": 45,
+              "productDescribe": " ",
+              "freight": "本商品满299或2件包邮(新疆部分区域除外)",
+              "efficacy": "紧致,清洁,净肤,嫩肤,抗氧化,温和",
+              "shelfLife": "2年半",
+              "instructions": "170ml(702003126)",
+              "attention": "因个人肤质不同，如有不适请立即停止使用",
+              "productSize": [ ],
+              "productColor": [ ],
+              "productCount": 1,
+               "productImg":[
+                "../../static/images/msHuiEr5.jpg"
+               ],
+              "productInforImg":[
+                "../../static/images/msHuiEr6.jpg",
+                "../../static/images/msHuiEr7.jpg",
+                 "../../static/images/msHuiEr8.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "shopId":"jms01",
+          "koreaShopTitle": "菲诗小铺官方旗舰店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "shopLogo": "../../static/images/feishi_logo.png",
+          "shopImg":"../../static/images/feishi_img1.png",
+          "shopIndexImg":[
+               "../../static/images/feishi_img2.png"
+            ],
+          "shopFocus": "12.5万人收藏",
+          "shopSales": 54511,
+          "shopProduct": [
+            {
+              "goodsId":"jmg002",
+              "title": "菲诗小铺植物简装防晒隔离隔离霜*2",
+              "brand": "菲诗",
+              "productClassfiy": "极速免税",
+              "originPrice": 106,
+              "presentPrice": 59.9,
+              "productDescribe": "  ",
+              "freight": "本商品满299或2件包邮(新疆部分区域除外)",
+              "efficacy": "均匀肤色,持久,美白,定妆,隔离",
+              "shelfLife": "2年",
+              "instructions": "",
+              "attention": "因个人肤质不同，如有不适请立即停止使用",
+              "productSize": [ ],
+              "productColor": [  ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/msFeiShi1.jpg"
+              ],
+              "productInforImg":[
+                "../../static/images/msFeiShi2.jpg",
+                "../../static/images/msFeiShi3.jpg",
+                "../../static/images/msFeiShi4.jpg"
+
+              ]
+            },
+            {
+              "goodsId":"jmg003",
+              "title": "菲诗小铺肤色调节隔离霜35g",
+              "brand": "菲诗",
+              "productClassfiy": "极速免税",
+              "originPrice": 99,
+              "presentPrice": 89,
+              "productDescribe": " ",
+              "freight": "本商品满299或2件包邮(新疆部分区域除外)",
+              "efficacy": " 遮瑕",
+              "shelfLife": "2年",
+              "instructions": "",
+              "attention": "因个人肤质不同，如有不适请立即停止使用",
+              "productSize": [
+                  "../../static/images/35g(702012351)",
+                  "../../static/images/35g(702012101)",
+                  "../../static/images/35g(702027972)"
+              ],
+              "productColor": ["绿色","紫色","粉色"],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/msFeiShi5.jpg"
+              ],
+              "productInforImg":[
+                "../../static/images/msFeiShi6.jpg",
+                "../../static/images/msFeiShi7.jpg",
+                "../../static/images/msFeiShi2.jpg"
+
+                ]
+            }
+          ]
+        }
+      ]
+    },
+    { "classifyId":"jmc0001",
+      "jmClassify": "母婴",
+      "jmClassifyShop": [
+        {
+          "shopId":"jms02",
+          "koreaShopTitle": "花王极速免税店",
+          "shopRecommended": true,
+          "shopPreferential": false,
+          "shopLogo":[ "../../static/images/huawang_logo.png"],
+          "shopImg":["../../static/images/huawang_img.png"],
+          "shopIndexImg":[],
+          "shopFocus": "4.2万人收藏",
+          "shopSales": 2451,
+          "shopProduct": [
+            {  "goodsId":"jmg004",
+              "title": "日本花王纸尿裤L58加量",
+              "brand": "花王纸尿裤",
+              "productClassfiy": "极速免税",
+              "originPrice": 195,
+              "presentPrice": 99,
+              "productDescribe": "  ",
+              "freight": "本商品满299或2件包邮(新疆部分区域除外)",
+              "efficacy": "",
+              "shelfLife": "",
+              "instructions": "",
+              "attention": "",
+              "productSize": [ ],
+              "productColor": [  ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/jbs1.jpg"
+              ],
+              "productInforImg":[
+                "../../static/images/jbs2.jpg",
+                "../../static/images/jbs3.jpg",
+                "../../static/images/jbs4.jpg"
+
+                ]
+            },
+            {  "goodsId":"jmg005",
+              "title": "日本花王拉拉裤XL44片",
+              "brand": "花王",
+              "productClassfiy": "极速免税",
+              "originPrice": 170,
+              "presentPrice": 105,
+              "productDescribe": " ",
+              "freight": "本商品满299或2件包邮(新疆部分区域除外)",
+              "efficacy": " ",
+              "shelfLife": "",
+              "instructions": "",
+              "attention": "",
+              "productSize": [ ],
+              "productColor": [ ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/llk1.jpg"
+              ],
+              "productInforImg":[
+                 "../../static/images/llk2.jpg",
+                 "../../static/images/llk3.jpg",
+                  "../../static/images/llk4.jpg",
+                  "../../static/images/llk5.jpg"
+
+                ]
+            }
+          ]
+        },
+        {
+          "shopId":"jms03",
+          "koreaShopTitle": "GagouTagou聚美官方旗舰店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "shopLogo": ["../../static/images/TaGou_logo.png"],
+          "shopImg": ["../../static/images/TaGou_img.png"],
+          "shopIndexImg":[],
+          "shopFocus": "6.3万人收藏",
+          "shopSales": 5411,
+          "shopProduct": [
+            {  "goodsId":"../../static/images/jmg006",
+              "title": "运动连体衣爬服宝宝无袖背心",
+              "brand": "GagouTagou聚美",
+              "productClassfiy": "极速免税",
+              "originPrice": 158,
+              "presentPrice": 79,
+              "productDescribe": "  ",
+              "freight": "单商家订满159元包邮",
+              "efficacy": "",
+              "shelfLife": "",
+              "instructions": "",
+              "attention": "",
+              "productSize": [ ],
+              "productColor": [  ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/lty1.jpg"
+              ],
+              "productInforImg":[
+                "../../static/images/lty2.jpg",
+                "../../static/images/lty3.jpg",
+                "../../static/images/lty4.jpg",
+                "../../static/images/lty5.jpg"
+
+                ]
+            },
+            {
+              "goodsId":"jmg007",
+              "title": "连体衣宝宝男背心短爬",
+              "brand": "GagouTagou聚美官方",
+              "productClassfiy": "极速免税",
+              "originPrice": 158,
+              "presentPrice": 79,
+              "productDescribe": " ",
+              "freight": "单商家订单满159元包邮",
+              "efficacy": "",
+              "shelfLife": "",
+              "instructions": "",
+              "attention": "",
+              "productSize": [ ],
+              "productColor": [ ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/bx1.jpg"
+              ],
+              "productInforImg":[
+                "../../static/images/bx2.jpg",
+                "../../static/images/bx3.jpg",
+                "../../static/images/bx4.jpg",
+                "../../static/images/bx5.jpg"
+
+                ]
+            }
+          ]
+        }
+      ]
+    },
+    {"classifyId":"jmc0002",
+       "jmClassify":"轻奢",
+      "jmClassifyShop":[
+        { "shopId":"jms04",
+          "koreaShopTitle": "奢美尚海外品牌集合店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "shopLogo": ["../../static/images/5532.jpg"],
+          "shopImg": ["../../static/images/qs1.jpg"],
+          "shopIndexImg":[
+               "../../static/images/qs2.jpg",
+                "../../static/images/qs3.jpg"
+          ],
+          "shopFocus": "8125",
+          "shopSales": "4532",
+          "shopProduct": [
+            {   "goodsId":"jmg008",
+              "title": "mk黄色皮革女士挎包",
+              "brand": "迈克.科尔斯(Michael Kors )",
+              "productClassfiy": "单肩包/斜挎包",
+              "originPrice": 898,
+              "presentPrice": 3000,
+              "productDescribe": "喜欢，好看，大小也合适",
+              "freight": "本商品单件包邮",
+              "efficacy": "",
+              "shelfLife": "",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+                "132mm x 190mm"
+              ],
+              "productColor": [
+                "黄色"
+              ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/4136232_350_350.jpg",
+                "../../static/images/4136232_1_350_350.jpg",
+                "../../static/images/4136232_2_350_350.jpg",
+                "../../static/images/4136232_3_350_350.jpg"
+              ],
+              "productInforImg":[
+                "../../static/images/1441529821.2105.jpg",
+                "../../static/images/1516695881.2551.jpg",
+                "../../static/images/1516695881.7682.jpg",
+                "../../static/images/1516695891.6992.jpg"
+                ]
+            },
+            {  "goodsId":"jmg009",
+              "title": "COACH 蔻驰 女士贝壳包斜挎包",
+              "brand": "蔻驰COACH",
+              "productClassfiy":"手拎包",
+              "originPrice": 1199,
+              "presentPrice": 3999,
+              "productDescribe": "采自国外的品牌的专卖店，百货专柜（如macy's等），100%正品货品来源。",
+              "freight": "本商品单件包邮",
+              "efficacy": "",
+              "shelfLife": "根据客户实际使用情况而定",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+                "34*12*24cm"
+              ],
+              "productColor": [
+                "棕色LOGO"
+              ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/qs4.jpg",
+                "../../static/images/qs5.jpg",
+                "../../static/images/qs6.jpg"
+
+              ],
+              "productInforImg":[
+                "../../static/images/qs7.jpg",
+                "../../static/images/qs8.jpg",
+                "../../static/images/qs9.jpg",
+                "../../static/images/qs10.jpg"
+                ]
+            }
+          ]
+        },
+        {
+          "shopId":"jms05",
+          "koreaShopTitle": "J&S海外品牌集合店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "shopLogo": ["1279.jpg"],
+          "shopImg": ["qs11.jpg"],
+          "shopIndexImg":[
+               "../../static/images/qs12.jpg",
+              "../../static/images/qs13.jpg"
+            ],
+          "shopFocus": "4094",
+          "shopSales": "9226",
+          "shopProduct": [
+            {
+              "goodsId":"jmg010",
+              "title": "施华洛世奇MAGIC雪花浪漫项链",
+              "brand": "施华洛世奇（SWAROVSKI）",
+              "productClassfiy": "合成宝石",
+              "originPrice": 609,
+              "presentPrice": 1190,
+              "productDescribe": "很好很喜欢",
+              "freight": "本商品单件包邮",
+              "efficacy": "",
+              "shelfLife": "全球联保一年",
+              "instructions": "",
+              "attention": "本产品属于特殊商品，非质量问题不支持7天无理由退换货",
+              "productSize": [
+                "38/1*1.5cm"
+              ],
+              "productColor": [
+                "镀玫瑰金色","镀白金色"
+              ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/qs14.jpg",
+                "../../static/images/qs15.jpg",
+               "../../static/images/qs16.jpg",
+               "../../static/images/qs18.jpg"
+              ],
+              "productInforImg":[
+                 "../../static/images/qs19.jpg",
+                 "../../static/images/qs20.jpg",
+                 "../../static/images/qs21.jpg",
+                "../../static/images/qs22.jpg",
+                "../../static/images/qs23.jpg",
+                "../../static/images/qs24.jpg"
+                ]
+            },
+            {
+              "goodsId":"jmg011",
+              "title": "天梭 男士石英表",
+              "brand": "天梭",
+              "productClassfiy":"石英表",
+              "originPrice": 3280,
+              "presentPrice": 4450,
+              "productDescribe": "由于生产批次不同，产地存在差异，请以收到实物为准，100%正品货品来源。",
+              "freight": "本商品单件包邮",
+              "efficacy": "",
+              "shelfLife": "全球联保两年",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+                "39mm"
+              ],
+              "productColor": [
+                "T035.446.11.051.00"
+              ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/qs25.jpg",
+                "../../static/images/qs26.jpg",
+                "../../static/images/qs27.jpg"
+
+              ],
+              "productInforImg":[
+                "../../static/images/xf-book.png",
+                "../../static/images/qs28.jpg",
+                "../../static/images/qs29.jpg",
+                "../../static/images/qs30.jpg",
+                "../../static/images/xf-book.png",
+                "../../static/images/qs31.jpg",
+                "../../static/images/qs32.jpg",
+                "../../static/images/qs33.jpg"
+                ]
+            }
+          ]
+        }
+      ]
+    },
+    { "classifyId":"jmc0003",
+      "jmClassify":"服饰",
+      "checked":true,
+      "totalMoney":0,
+      "fen":[
+        {
+          "fenleiPic":"../../static/data/images/tm01.png",
+          "fenleiTitle":"卫衣"
+        },
+        {
+          "fenleiPic":"../../static/data/images/tm02.png",
+          "fenleiTitle":"风衣"
+        },
+        {
+          "fenleiPic":"../../static/data/images/tm03.png",
+          "fenleiTitle":"针织衫"
+        },
+        {
+          "fenleiPic":"../../static/data/images/tm04.png",
+          "fenleiTitle":"文胸"
+        },
+        {
+          "fenleiPic":"../../static/data/images/tm05.png",
+          "fenleiTitle":"衬衫"
+        },
+        {
+          "fenleiPic":"../../static/data/images/tm06.png",
+          "fenleiTitle":"休闲裤"
+        },
+        {
+          "fenleiPic":"../../static/data/images/tm07.png",
+          "fenleiTitle":"牛仔裤"
+        },
+        {
+          "fenleiPic":"../../static/data/images/tm08.png",
+          "fenleiTitle":"袜子"
+        }
+        ],
+      "jmClassifyShop":[
+        {
+          "shopId":"jms06",
+          "koreaShopTitle": "紫衫衣阁旗舰店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "checked":true,
+          "totalShopMoney":0,
+          "shopLogo": "../../static/data/images/fs03.png",
+          "shopImg": "../../static/data/images/fs01.png",
+          "shopImages": "../../static/data/images/fss02.jpg",
+          "shopIndexImg":[
+            ],
+          "shopFocus": 4955,
+          "shopSales": 701,
+          "tehui24hours":"特惠24小时 单件包邮",
+          "shopProduct": [
+            { "goodsId":"jmg012",
+              "title": "ZSYG 短款连帽长袖卫衣",
+              "brand": "紫衫衣阁",
+              "productClassfiy": "",
+              "originPrice": 298,
+              "presentPrice": 49,
+              "checked":true,
+              "productDescribe": "紫衫衣阁2018宽松套头学生印花连帽卫衣",
+              "freight": "本商品单件包邮",
+              "baoyou":"单品包邮",
+              "zhikou":"2.6折",
+              "tehui":"今日特惠价：",
+              "efficacy": "",
+              "shelfLife": "",
+              "instructions": "紫衫衣阁满199元减20元",
+              "attention": "132mm x 190mm",
+              "productSize": ["M","L","XL","2XL"],
+              "productColor": ["卡其色","黑色"],
+              "productCount": 1,
+              "add":"+",
+              "redu":"-",
+              "productEvalu":"99.1%",
+              "eval":"4852条评论",
+              "productImg":
+                "../../static/data/images/fs04.jpg",
+              "productInforImg":
+                "../../static/data/images/fs05.jpg"
+            },
+            {
+              "goodsId":"jmg013",
+              "title": "ZSYG 中长加厚棉服外套",
+              "brand": "紫衫衣阁",
+              "productClassfiy": "",
+              "originPrice": 599,
+              "presentPrice": 289,
+              "checked":true,
+              "productDescribe": "紫衫衣阁2018新款中长款加厚棉服",
+              "freight": "本商品单件包邮",
+              "baoyou":"单品包邮",
+              "zhikou":"2.6折",
+              "tehui":"今日特惠价：",
+              "efficacy": "",
+              "shelfLife": "",
+              "instructions": "紫衫衣阁满199元减20元",
+              "attention": "",
+              "productSize": ["S","M","L","XL","2XL"],
+              "productColor": ["焦糖色","灰色","藏青色","粉色","黑色"],
+              "productCount": 1,
+              "add":"+",
+              "redu":"-",
+              "productEvalu":"96.8%",
+              "eval":"672条评论",
+              "productImg":
+                "../../static/data/images/fs10.jpg",
+              "productInforImg":
+               "../../static/data/images/fs11.jpg"
+            }
+          ]
+        },
+        {
+          "shopId":"jms07",
+          "koreaShopTitle": "衣岚香旗舰店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "checked":true,
+          "totalShopMoney":0,
+          "shopLogo": "../../static/data/images/fs04.png",
+          "shopImg": "../../static/data/images/fs02.png",
+          "shopImages": "../../static/data/images/fss04.jpg",
+          "shopIndexImg":[],
+          "shopFocus": 2003,
+          "shopSales": 754,
+          "shopProduct": [
+            {
+              "goodsId":"jmg014",
+              "title": "衣岚香连帽卫衣两件套",
+              "brand": "衣岚香（Yilanxiang）",
+              "productClassfiy": "",
+              "originPrice": "299",
+              "presentPrice": "108",
+              "checked":true,
+              "productDescribe": "衣岚香时尚连帽卫衣运动套装女宽松休闲长裤两件套",
+              "freight": "本商品单件包邮",
+              "baoyou":"单品包邮",
+              "zhikou":"2.6折",
+              "tehui":"今日特惠价：",
+              "efficacy": "",
+              "shelfLife": "",
+              "instructions": "",
+              "attention": "",
+              "productSize": ["S","M","L","XL"],
+              "productColor": ["粉色","黑色","紫色"],
+              "productCount": 1,
+              "add":"+",
+              "redu":"-",
+              "productEvalu":"98.2%",
+              "eval":"4.6万条评论",
+              "productImg":
+                "../../static/data/images/fs15.jpg",
+              "productInforImg":
+                "../../static/data/images/fs16.jpg"
+            },
+            {
+              "goodsId":"jmg015",
+              "title": "衣岚香显瘦衬衣针织马甲",
+              "brand": "衣岚香（Yilanxiang）",
+              "productClassfiy": "",
+              "originPrice": "189",
+              "presentPrice": "88",
+              "checked":true,
+              "productDescribe": "衣岚香休闲长袖衬衫女宽松显瘦衬衣",
+              "freight": "本商品单件包邮",
+              "baoyou":"单品包邮",
+              "zhikou":"2.6折",
+              "tehui":"今日特惠价：",
+              "efficacy": "",
+              "shelfLife": "",
+              "instructions": "",
+              "attention": "",
+              "productSize": ["S","M","L","XL"],
+              "productColor": ["蓝色","杏色","粉色"],
+              "productCount": 1,
+              "add":"+",
+              "redu":"-",
+              "productEvalu":"97.9%",
+              "eval":"2万条评论",
+              "productImg":"../../static/data/images/fs20.jpg",
+              "productInforImg":
+                "../../static/data/images/fs21.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    { "classifyId":"jmc0004",
+      "jmClassify": "鞋包",
+      "jmClassifyShop": [
+        {
+          "shopId":"jms08",
+          "koreaShopTitle": "名鞋库运动旗舰店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "shopLogo":[ "../../static/images/zba1.png"],
+          "shopImg": ["../../static/images/zba3.png"],
+          "shopIndexImg":[],
+          "shopFocus": "701",
+          "shopSales": 4955,
+          "shopProduct": [
+            {  "goodsId":"jmg016",
+              "title": "中性帆布鞋1010",
+              "brand": "心相印(Mind Act Upon Mind)",
+              "productClassfiy": "",
+              "originPrice": 399,
+              "presentPrice": 264,
+              "productDescribe": "Converse新款男鞋女鞋帆布鞋",
+              "freight": "订单满159元包邮",
+              "efficacy": "",
+              "shelfLife": "3年",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+                "36",
+                "37",
+                "39",
+                "40",
+                "41"
+              ],
+              "productColor": [
+                "纯白-低帮",
+                "黑色-低帮",
+                "红色-低帮",
+                "白色-高帮"
+              ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/xbd25.jpg",
+                "../../static/images/xbd26.jpg",
+               "../../static/images/xbd27.jpg"
+
+              ],
+              "productInforImg":[
+                  "../../static/images/xbd28.jpg",
+                  "../../static/images/xbd29.jpg",
+                   "../../static/images/xbd30.jpg",
+                   "../../static/images/xbd31.jpg",
+                   "../../static/images/xbd32.jpg"
+                ]
+            },
+            {  "goodsId":"jmg017",
+              "title": "NIKE耐克男鞋休闲鞋2018新款",
+              "brand": "心相印(Mind Act Upon Mind)",
+              "productClassfiy": "",
+              "originPrice": 399,
+              "presentPrice": 264,
+              "productDescribe": "NIKE耐克男鞋休闲鞋2018新款",
+              "freight": "订单满159元包邮",
+              "efficacy": "",
+              "shelfLife": "3年",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+                "36",
+                "37",
+                "39",
+                "40",
+                "43"
+              ],
+              "productColor": [
+                "黑+冷灰+白",
+                "藏青色"
+              ],
+              "productCount": 1,
+              "productImg":[
+                 "../../static/images/xbd16.jpg",
+                 "../../static/images/xbd17.jpg",
+                 "../../static/images/xbd18.jpg",
+                 "../../static/images/xbd19.jpg"
+
+              ],
+              "productInforImg":[
+                 "../../static/images/xbd20.jpg",
+                 "../../static/images/xbd21.jpg",
+                 "../../static/images/xbd22.jpg",
+                 "../../static/images/xbd23.jpg",
+                  "../../static/images/xbd24.jpg"
+                ]
+            }
+          ]
+        },
+        {
+          "shopId":"jms09",
+          "koreaShopTitle": "Reiwalker女装专卖店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "shopLogo": ["../../static/images/zba2.PNG"],
+          "shopImg": ["../../static/images/zbz4.png"],
+          "shopIndexImg":[],
+          "shopFocus": "903",
+          "shopSales": 1065,
+          "shopProduct": [
+            {  "goodsId":"jmg018",
+              "title": "Reiwalker时尚珍珠糖果小芳包时尚百搭",
+              "brand": "心相印(Mind Act Upon Mind)",
+              "productClassfiy": "",
+              "originPrice": 598,
+              "presentPrice": 188,
+              "productDescribe": "时尚珍珠糖果小芳包时尚百搭卫生纸软抽纸巾 6包",
+              "freight": "订单满159元包邮",
+              "efficacy": "",
+              "shelfLife": "3年",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+                "限量版"
+              ],
+              "productColor": [
+                "淡蓝色",
+                "黑色",
+                "天蓝色"
+              ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/xbd1.jpg",
+                "../../static/images/xbd2.jpg",
+                "../../static/images/xbd3.jpg",
+                "../../static/images/xbd4.jpg"
+
+              ],
+              "productInforImg":[
+                "../../static/images/xbd5.jpg",
+                "../../static/images/xbd6.jpg",
+                "../../static/images/xbd7.jpg",
+                "../../static/images/xbd8.jpg",
+                "../../static/images/xbd9.jpg",
+                "../../static/images/xbd10.jpg"
+              ]
+            },
+
+            {  "goodsId":"jmg019",
+              "title": "Reiwalker迷你撞色小方包单肩包斜挎包",
+              "brand": "(Mind Act Upon Mind)",
+              "productClassfiy": "",
+              "originPrice": 288,
+              "presentPrice": 19.9,
+              "productDescribe": "迷你撞色小方包单肩包斜挎包平整不卡纸",
+              "freight": "订单满159元包邮",
+              "efficacy": "",
+              "shelfLife": "3年",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+                "米白色",
+                "灰色",
+                "粉色",
+                "红色"
+              ],
+              "productColor": [
+                "高质版"
+              ],
+              "productCount": 1,
+              "productImg":[
+                "../../static/images/xbd11.jpg",
+                "../../static/images/xbd12.jpg"
+              ],
+              "productInforImg":[
+                "../../static/images/xbd13.jpg",
+                "../../static/images/xbd14.jpg",
+                "../../static/images/xbd15.jpg"
+                ]
+            }
+          ]
+        }
+      ]
+    },
+    { "classifyId":"jmc0005",
+      "jmClassify":"家居",
+      "jmClassifyShop":[
+        {
+          "shopId":"jms10",
+          "koreaShopTitle": "一二三家居专营店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "shopLogo": ["../../static/images/xxy-logo.png"],
+          "shopImg":["../../static/images/xxy-xq-title.png"],
+          "shopIndexImg":[],
+          "shopFocus": "",
+          "shopSales": 5731,
+          "shopProduct": [
+            {  "goodsId":"jmg020",
+              "title": "心相印 抽纸茶语丝享软抽纸巾 6包",
+              "brand": "心相印(Mind Act Upon Mind)",
+              "productClassfiy": "",
+              "originPrice": 99,
+              "presentPrice": 25.9,
+              "productDescribe": "心相印 抽纸茶语丝享面巾纸餐巾卫生纸软抽纸巾 6包",
+              "freight": "本商品单件包邮",
+              "efficacy": "",
+              "shelfLife": "3年",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+                "抽纸+抽纸",
+                "抽纸+原木手帕纸",
+                "抽纸+金装手帕纸",
+                "抽纸+湿巾",
+                "（12包装）"
+              ],
+              "productColor": [
+                "【特惠限量抢】10包",
+                "【特惠限量抢】",
+                "DT15130"
+              ],
+              "productCount": 1,
+              "productImg":
+              [
+                "xxy-xq-title.jpg"
+              ],
+              "productInfoImg":
+              [
+                 "../../static/images/xxy-dp-xq01.jpg",
+                 "../../static/images/xxy-dp-xq02.jpg",
+                 "../../static/images/xxy-dp-xq03.jpg",
+                 "../../static/images/xxy-dp-xq04.jpg",
+                 "../../static/images/xxy-dp-xq05.jpg",
+                 "../../static/images/xxy-dp-xq06.jpg"
+              ]
+            },
+            {  "goodsId":"jmg021",
+              "title": "心相印纸竹兀卷纸卫生纸厕纸12卷",
+              "brand": "心相印(Mind Act Upon Mind)",
+              "productClassfiy": "",
+              "originPrice": "69",
+              "presentPrice": "25.9",
+              "productDescribe": "竹π本色纸巾12卷/提纹理细腻无杂质平整不卡纸",
+              "freight": "本商品单件包邮",
+              "efficacy": "",
+              "shelfLife": "3年",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+                "卷纸+6包抽纸",
+                "卷纸+4包抽纸",
+                "卷纸+原木手帕纸",
+                "卷纸+湿巾"
+              ],
+              "productColor": [
+                "【限时特惠装】",
+                "24卷"
+              ],
+              "productCount": 1,
+              "productImg":
+              [
+                "../../static/images/xxy-xq2-title.jpg"
+              ],
+              "productInfoImg":
+              [
+                 "../../static/images/xxy-dp2-xq01.jpg",
+                 "../../static/images/xxy-dp2-xq02.jpg",
+                 "../../static/images/xxy-dp2-xq03.jpg",
+                  "../../static/images/xxy-dp2-xq04.jpg",
+                  "../../static/images/xxy-dp2-xq05.jpg",
+                  "../../static/images/xxy-dp2-xq06.jpg",
+                   "../../static/images/xxy-dp2-xq07.jpg"
+                ]
+            }
+          ]
+        },
+        {
+          "shopId":"jms11",
+          "koreaShopTitle": "珍视明眼膜贴护眼贴清爽补水15对",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "shopLogo": ["zsm-logo.png"],
+          "shopImg":["zsm-xq-title.png"],
+          "shopIndexImg":
+                [
+                  "../../static/images/zsm-spimg01.png",
+                  "../../static/images/zsm-spimg02.png",
+                  "../../static/images/zsm-spimg03.png",
+                  "../../static/images/zsm-spimg04.png",
+                  "../../static/images/zsm-spimg05.png"
+                ],
+          "shopFocus": 7615,
+          "shopSales": 3845,
+          "shopProduct": [
+            {   "goodsId":"jmg022",
+              "title": "珍视明护眼贴（通用型）15对/盒 缓解眼疲劳盈亮眼肌",
+              "brand": "珍视明",
+              "productClassfiy": "",
+              "originPrice": 88,
+              "presentPrice": 39,
+              "productDescribe": "长时间使用电脑、手机、工作，学习，眼睛易疲劳人群及爱眼人士",
+              "freight": "本商品单件包邮",
+              "efficacy": "缓解眼疲劳、盈亮眼肌",
+              "shelfLife": "2年（具体日期以收到实物为准）",
+              "instructions": "从独立包装中取护眼贴，闭上眼睛贴敷于眼部及太阳穴，尾翼向上保留15-20分钟，一次一袋；",
+              "attention": "全新正品",
+              "productSize": [],
+              "productColor": [],
+              "productCount": 1,
+              "productImg": ["../../static/images/zsm-xq-title.jpg"],
+              "productInfoImg":
+              [
+                 "../../static/images/zsm-dp-xq01.jpg",
+                 "../../static/images/zsm-dp-xq02.jpg",
+                "../../static/images/zsm-dp-xq03.jpg",
+                "../../static/images/zsm-dp-xq04.jpg",
+                "../../static/images/zsm-dp-xq05.jpg",
+                 "../../static/images/zsm-dp-xq06.jpg"
+              ]
+            },
+            {  "goodsId":"jmg023",
+              "title": "珍视明蒸汽睡眠眼罩女神套送眼霜",
+              "brand": "珍视明",
+              "productClassfiy": "",
+              "originPrice": "55",
+              "presentPrice": "139",
+              "productDescribe": "珍视明 蒸汽眼罩女神套装眼罩送眼霜 美眼舒缓滋润",
+              "freight": "本商品单件包邮",
+              "efficacy": "",
+              "shelfLife": "2年（具体日期以收到实物为准）",
+              "instructions": "从独立包装中取出眼罩，打开即刻使用，切口深的一侧对准鼻梁，一次一片；",
+              "attention": "全新正品",
+              "productSize": [
+              ],
+              "productColor": [
+              ],
+              "productCount": 1,
+              "productImg":
+              [
+                 "../../static/images/zsm-xq02-title.jpg"
+              ],
+              "productInfoImg":
+              [
+                 "../../static/images/zsm-dp2-xq01.jpg",
+                 "../../static/images/zsm-dp2-xq02.jpg",
+                 "../../static/images/zsm-dp2-xq03.jpg",
+                 "../../static/images/zsm-dp2-xq04.jpg",
+                 "../../static/images/zsm-dp2-xq05.jpg",
+                 "../../static/images/zsm-dp2-xq06.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    { "classifyId":"jmc0006",
+      "jmClassify":"食品",
+      "jmClassifyShop":[
+        {
+          "shopId":"jms12",
+          "koreaShopTitle": "费列罗官方旗舰店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "shopLogo": ["../../static/images/ffl-logo.png"],
+          "shopImg":["../../static/images/fll-xq-title.png"],
+          "shopFocus": "",
+          "shopSales": 236,
+          "shopProduct": [
+            {  "goodsId":"jmg024",
+              "title": "拉斐尔椰蓉扁桃仁糖果15粒150g",
+              "brand": "费列罗",
+              "productClassfiy": "",
+              "originPrice": 68.4,
+              "presentPrice": 32.8,
+              "productDescribe": "费列罗进口零食拉斐尔椰蓉扁桃仁糖果15粒150g",
+              "freight": "商家订单满159包邮",
+              "efficacy": "",
+              "shelfLife": "270天",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+              ],
+              "productColor": [
+              ],
+              "productCount": 1,
+              "productImg":
+              [
+                "../../static/images/fll-xq-title.jpg"
+              ],
+              "productInfoImg":
+              [
+                 "../../static/images/fll-dp-xq01.jpg",
+                 "../../static/images/fll-dp-xq02.jpg",
+                 "../../static/images/fll-dp-xq03.jpg",
+                 "../../static/images/fll-dp-xq04.jpg",
+                 "../../static/images/fll-dp-xq05.jpg",
+                 "../../static/images/fll-dp-xq06.jpg",
+                 "../../static/images/fll-dp-xq07.jpg",
+                 "../../static/images/fll-dp-xq08.jpg"
+              ]
+            },
+            {  "goodsId":"jmg025",
+              "title": "费列罗榛果威化巧克力32粒400g",
+              "brand": "费列罗",
+              "productClassfiy": "",
+              "originPrice": 199,
+              "presentPrice": 125,
+              "productDescribe": "费列罗榛果威化巧克力礼盒32粒400g",
+              "freight": "商家订单满159包邮",
+              "efficacy": "",
+              "shelfLife": "270天",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+
+              ],
+              "productColor": [
+
+              ],
+              "productCount": 1,
+              "productImg":
+              [
+                "../../static/images/fll-xq-title02.jpg"
+              ],
+              "productInfoImg":
+              [
+                 "../../static/images/fll-dp2-xq01.jpg",
+                 "../../static/images/fll-dp2-xq02.jpg",
+                "../../static/images/fll-dp2-xq03.jpg",
+                 "../../static/images/fll-dp2-xq04.jpg",
+                 "../../static/images/fll-dp2-xq05.jpg",
+                 "../../static/images/fll-dp2-xq06.jpg"
+                ]
+            }
+          ]
+        },
+        {
+          "shopId":"jms13",
+          "koreaShopTitle": "嘉华食品旗舰店",
+          "shopRecommended": true,
+          "shopPreferential": true,
+          "shopLogo": "../../static/images/jh-logo.png",
+          "shopImg":"../../static/images/jh-xq-title.png",
+          "shopFocus": 7615,
+          "shopSales": 3845,
+          "shopProduct": [
+            {   "goodsId":"jmg026",
+              "title": "嘉华鲜花饼 经典云腿小饼 300g月饼",
+              "brand": "嘉华",
+              "productClassfiy": "",
+              "originPrice": 46,
+              "presentPrice": 33.8,
+              "productDescribe": "",
+              "freight": "本商品单件包邮",
+              "efficacy": "",
+              "shelfLife": "",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+
+              ],
+              "productColor": [
+
+              ],
+              "productCount": 1,
+              "productImg":
+              [
+                "../../static/images/jh-xq-title.jpg"
+              ],
+              "productInfoImg":
+              [
+                 "../../static/images/jh-dp-xq01.jpg",
+                 "../../static/images/jh-dp-xq02.jpg",
+                "../../static/images/jh-dp-xq03.jpg",
+                "../../static/images/jh-dp-xq04.jpg",
+                 "../../static/images/jh-dp-xq05.jpg",
+                 "../../static/images/jh-dp-xq06.jpg",
+                 "../../static/images/jh-dp-xq07.jpg",
+                 "../../static/images/jh-dp-xq08.jpg"
+                ]
+
+            },
+            {  "goodsId":"jmg027",
+              "title": "嘉华 中秋滇式月饼特色礼包1200g",
+              "brand": "嘉华",
+              "productClassfiy": "",
+              "originPrice": 158,
+              "presentPrice": 118,
+              "productDescribe": "嘉华 中秋月饼 滇式月饼特色礼包 1200g 零食糕点心",
+              "freight": "本商品单件包邮",
+              "efficacy": "",
+              "shelfLife": "",
+              "instructions": "",
+              "attention": "",
+              "productSize": [
+              ],
+              "productColor": [
+              ],
+              "productCount": 1,
+              "productImg":
+              [
+                 "../../static/images/jh-xq-title02.jpg"
+              ],
+              "productInfoImg":
+               [
+                "../../static/images/jh-dp2-xq01.jpg",
+                 "../../static/images/jh-dp2-xq02.jpg",
+                 "../../static/images/jh-dp2-xq03.jpg",
+                "../../static/images/jh-dp2-xq04.jpg",
+                 "../../static/images/jh-dp2-xq05.jpg",
+                "../../static/images/jh-dp2-xq06.jpg",
+                 "../../static/images/jh-dp2-xq07.jpg",
+                "../../static/images/jh-dp2-xq08.jpg",
+                 "../../static/images/jh-dp2-xq09.jpg"
+                ]
+            }
+          ]
+        }
+      ]
+    }
+]
